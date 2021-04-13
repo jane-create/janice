@@ -6,9 +6,9 @@ top.title('Untitled - Notepad')
 
 
 
-l1 =Label(top, text ='File')
-l2 =Label(top, text ='Edit')
-l3 =Label(top, text ='Format')
+l1 =Label(top, text ='URL')
+l2 =Label(top, text ='VERSION NUMBER')
+l3 =Label(top, text ='DIFF NUMBER')
 l4 =Label(top, text ='View')
 l5 =Label(top, text = 'Help')
 l1.grid(row =0, column =1)
